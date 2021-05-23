@@ -1,6 +1,6 @@
 # quizy
 
-A new Flutter project.
+A mobile application made using flutter to take quizes and also create the quizes.
 
 ## Getting Started
 
